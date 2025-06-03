@@ -10,7 +10,7 @@
     "test:coverage": "npm run pretest && jest --detectOpenHandles --coverage",
     "pretest": "ts-node ./src/data --clear"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Sofia del Rayo Ramirez Garcia y Rafael Alonso Villegas Bedolla",
   "license": "ISC",
   "devDependencies": {
     "@types/cors": "^2.8.15",
